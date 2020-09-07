@@ -28,6 +28,8 @@
         <module>yangpan-dubbo-registry-zookeeper-consumer</module>
         <module>yangpan-dubbo-registry-nacos-provider</module>
         <module>yangpan-dubbo-registry-nacos-consumer</module>
+        <module>yangpan-dubbo-registry-redis-provider</module>
+        <module>yangpan-dubbo-registry-redis-consumer</module>
     </modules>
 
     <build>
